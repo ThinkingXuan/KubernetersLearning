@@ -10,7 +10,7 @@ docker version
 kubectl version
 minikube version
 ```
-发现都已经安装了，现在可是学习K8S的吧。
+发现都已经安装了，现在开始学习K8S的吧。
 
 启动minikube:
 ```
